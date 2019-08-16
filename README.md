@@ -1,8 +1,22 @@
 # house-history
 
+## 2019-08
+
+### Installed Ring floodlight
+
+Installed a flood light under the cover of the carport. 
+
+We found out that there is a junction box installed in the area. It is a bit further back so you'll need longer screws. It uses a #8 machined screw. We used a #8 machined screw that's 2 inches long. We found out that the previous ownersseemed to have used a drill gun to remove the aluminum siding. The cut isn't very smooth.
+
+### Installed Ring smart doorbell
+
+Installed a smart doorbell in the front of the house. Found out we have 24v power going to the front.
+
+The circuit for the doorbell is mapped to the Kitchen O. light switch.
+
 ## 2019-07
 
-### Electricity went out
+### Electricity went out because of hall light setup
 
 Electricity went out in three separate areas of the house:
 
