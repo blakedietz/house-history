@@ -22,7 +22,7 @@ Service provider: A+ Plumbing Drain Cleaning and Plumbing LLC
 
 #### Description
 
-We had the disposal installed on the left hand side
+We had the disposal installed on the left hand side. We decided to get this done at the same time while they were looking at the water hammer to cut down on osts.
 
 ### Had water hammer looked at
 
