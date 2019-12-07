@@ -1,5 +1,25 @@
 # house-history
 
+## 2019-12
+
+### Furnace filter replaced
+
+#### Description
+
+We had the furnace filter replaced by Nicholas the handy man. He told us that we need to do this once every six months.
+
+Filter dimensions for furnace: 20 x 25 inches.
+
+## 2019-10
+
+### Kitchen drain was clogged
+
+#### Description
+
+Again the drain was clogged. It was bad enough this time that we didn't catch the blockage before we ran the dish washer. Unfortunately the dish washer overflowed due to the blockage. There was a pool of water in front of the dish washer in the kitchen.
+
+We had A+ cleaning and draining come out and they roto routed the clog out. We haven't had issues since.
+
 ## 2019-09
 
 ### Kitchen drain was cloggged
@@ -46,7 +66,7 @@ I asked about how much it would cost to have them come out and revamp the plumbi
 
 #### Description
 
-Installed a flood light under the cover of the carport. 
+Installed a flood light under the cover of the carport.
 
 We found out that there is a junction box installed in the area. It is a bit further back so you'll need longer screws. It uses a #8 machined screw. We used a #8 machined screw that's 2 inches long. We found out that the previous owners seemed to have used a drill gun to remove the aluminum siding. The cut isn't very smooth.
 
@@ -117,4 +137,3 @@ Had Nick come out and reattach our anchors for the weatherhead (the place where 
 #### Description
 
 Fixed the caulking on the panel that the mailbox port is attached to.
-
