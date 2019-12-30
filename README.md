@@ -2,6 +2,16 @@
 
 ## 2019-12
 
+### Had can lights and bathroom vent installed
+
+#### Description
+
+We had can lights installed in the living room. A Feit dimmable smart switch was installed along with a new circuit in the living room. Six can lights were installed.
+
+We also had a vent and concomitant switch installed along with an exhaust tube that was added to the roof.
+
+Nicholas the handy man installed the vent and Alex the electrician who was contracted for the electrical install installed everything.
+
 ### Furnace filter replaced
 
 #### Description
