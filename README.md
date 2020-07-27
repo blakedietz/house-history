@@ -1,5 +1,23 @@
 # house-history
 
+## 2020-07
+
+### Concrete estimate from Mr. Mudd
+
+#### Description
+
+A gentleman from Mr. Mudd came to the house to give us an estimate on the concrete.  This includes the front of the garage, car port and asphalt replacement.  An estimate was emailed to us coming in at $12,962 (sent on 7/21/20).  If we pay within 7 days of the proposed estimate, we could save 4% which brings the cost down to $12,444.
+
+### Front door painted and interior doors installed
+
+#### Description
+
+We had our front door painted a beautiful scallion green, outside facing as well as inside.
+
+All interiors doors, excluding garage door, were replaced with solid white doors and new black fixtures.
+
+A1 Handyman sent Jacob and Mike to do the projects.  The total cost was approximately $1,250.
+
 ## 2019-12
 
 ### Had can lights and bathroom vent installed
