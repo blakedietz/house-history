@@ -2,6 +2,25 @@
 
 ## 2020-07
 
+### Plumbing work estimation
+
+We had A+ plumbing come out and do a quick overview of the house to revamp the plumbing.
+
+They estimated doing the following for approximately $5k
+
+- Clean out: for scoping
+- New lines
+- Emergency shutoff valve with easier access
+- Water softener: Nueovo (something that uses citrus vs salt)
+- Water heater install
+
+#### Some things we learned
+
+- The plumbing was recently redone for the drain lines, so that work wouldn't need to be done.
+- Didn't recommend on demand water heater
+  - Requires a lot of maintenance
+  - Would require a larger exhaust vent for the gas
+
 ### Concrete estimate from Mr. Mudd
 
 #### Description
