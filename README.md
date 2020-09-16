@@ -1,5 +1,42 @@
 # house-history
 
+## 2020-09
+
+### Landscaping
+
+Had a designer (Kim) come out and look at the house.
+
+#### Notes
+
+- She recommended a gray color for the shingles may work a little better with the color of the house.
+- She mentioned that it would probably be easier to wrap our concrete stairs in wood.
+- Mentioned that tilling grass one foot away from fence would make maintenance easier.
+- Could use a curb instead of retaining wall for the property next to the parking lot. Said that this would be cheaper.
+
+## 2020-08
+
+### Plumbing revamp
+
+#### New water heater
+
+Changed to a tankless water heater system.
+
+##### Cleaning
+
+We'll need to clean the system once every 6 months to a year using a solution.
+
+#### Replaced plumbing in house
+
+Replaced drain and incoming lines to the house.
+
+#### New work
+
+Need to look into:
+
+- Water softener: The water was rated at a hardness of 6 out of 10.
+- Resonator (device that cleans the): Would be good to add a device that sends soundwaves throughout the plumbing in the house to stop sediment from forming.
+- Didn't redo the water main. It's still galvanized and would impact water pressure to the house.
+
 ## 2020-07
 
 ### Plumbing work estimation
