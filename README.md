@@ -36,6 +36,8 @@ Need to look into:
 - Water softener: The water was rated at a hardness of 6 out of 10.
 - Resonator (device that cleans the): Would be good to add a device that sends soundwaves throughout the plumbing in the house to stop sediment from forming.
 - Didn't redo the water main. It's still galvanized and would impact water pressure to the house.
+- Hole in crawlspace that needs to be plugged. Could lead to rodents making it into the house.
+- New easy out was not put in.
 
 ## 2020-07
 
