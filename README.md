@@ -2,9 +2,44 @@
 
 ## 2020-09
 
+### Furnace replacement
+
+
+
+### Chimney tear out
+
+#### Chimney
+
+Had the chimney torn out. The initial scope of work was going to be a tear out that went a few inches below roof line. However upon further review, the chimney install was done rather poorly. A seam ran from the top all the way to the bottom of the chimney which made it unstable. This prompted us to remove the chimney down to the floor level of the garage. After further review it was clear that the chimney was still unstable and should be completely removed. This lead us to tear the chimney down to the foundation.
+
+After we completed tear down we, discovered that the HVAC tubing from the 80% furnace was not connected to the flu. The flu was run in a separate chamber next to the chimney. This meant that the exhaust from the furnace was running throughout the cinderblock in the that was supposed to be protecting the flu. This is probably what caused excess deterioration to the chimney structure as the combustion byproducts from the furnace accelerates the chemical process that triggers deterioration in mortar and concrete.
+
+#### Roof patch
+
+We had the roof patched to cover up the hole where the chimney was protruding.
+
+#### Floor hole
+
+The hole that the chimney ran through in the second floor of the garage was left open until further HVAC work is to be completed. Jacob will come back and work on patching the floor once thata's done.
+
+#### Misc
+
+- Jacob pointed out some bad wiring above the kitchen vent.
+
+#### A1 Handyman LLC
+
+Jacob Snowball
+2089956457
+www.handyman-boise.com
+
 ### Landscaping
 
 Had a designer (Kim) come out and look at the house.
+
+#### Designs by Kim
+
+Residential Garden Design
+(208)870-3795
 
 #### Notes
 
