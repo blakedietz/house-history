@@ -4,8 +4,6 @@
 
 ### Furnace replacement
 
-
-
 ### Chimney tear out
 
 #### Chimney
@@ -29,9 +27,9 @@ The hole that the chimney ran through in the second floor of the garage was left
 
 #### A1 Handyman LLC
 
-Jacob Snowball
-2089956457
-www.handyman-boise.com
+- Jacob Snowball
+- 2089956457
+- www.handyman-boise.com
 
 ### Landscaping
 
@@ -39,8 +37,8 @@ Had a designer (Kim) come out and look at the house.
 
 #### Designs by Kim
 
-Residential Garden Design
-(208)870-3795
+- Residential Garden Design
+- (208)870-3795
 
 #### Notes
 
