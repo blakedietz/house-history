@@ -25,6 +25,7 @@ The hole that the chimney ran through in the second floor of the garage was left
 #### Misc
 
 - Jacob pointed out some bad wiring above the kitchen vent.
+- Jacob left some extra shingles for the hvac guys
 
 #### A1 Handyman LLC
 
