@@ -1,5 +1,28 @@
 # house-history
 
+## 2022-02
+
+### Dishwasher replacement
+
+Model: Bosch 500 DLX 24 Inch Fully Integrated Tall-Tub Dishwasher
+Model code: #SHP865ZD5N
+
+#### Installation notes
+
+##### Height
+
+The bottom legs can be rotated with a flathead screwdriver. This can be used to level the dishwasher. If the dishwasher must be removed, it would be recommended to lower the dishwasher to get it over the hump of the flooring at the bottom.
+
+##### Drain hose height
+
+The drain pipe height must be a minimum of 33 inches high to a maximum of 43 (need to make sure this is correct in the ddocumentation) inches high.
+
+## 2022-01
+
+### Furnace issues
+
+We had the ecobee shut off after the service technician came out to do our yearly checkupt. We primarily thought that the issues were caused by a mistake made by the 
+
 ## 2020-09
 
 ### Furnace replacement
