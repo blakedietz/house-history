@@ -21,7 +21,11 @@ The drain pipe height must be a minimum of 33 inches high to a maximum of 43 (ne
 
 ### Furnace issues
 
-We had the ecobee shut off after the service technician came out to do our yearly checkupt. We primarily thought that the issues were caused by a mistake made by the 
+We had the ecobee shut off after the service technician came out to do our yearly checkupt. We primarily thought that the issues were caused by a mistake made by the maintenance person. They were new.
+
+Ended up calling Western to come out and service the furnace later the same day and they mentioned that it was a problem with the condensate container and level not being reseated properly.
+
+One more issue came up and they came out and mentioned that if problems continued it might be the distance that the pump is from the drain.
 
 ## 2020-09
 
