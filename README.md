@@ -1,5 +1,25 @@
 # house-history
 
+## 2022-06-01
+
+### HVAC filter replacement
+
+We were about three months overdue for our. We replaced it as needed.
+
+Before replacing the filter, it's important to turn off the HVAC system. Here's how to do so with the EcoBee.
+
+#### Turning off HVAC
+
+![IMG_0758](https://user-images.githubusercontent.com/2549228/171521842-7ae7e72e-2dc0-408f-b546-9ef22144ae4f.jpeg)
+![IMG_0759](https://user-images.githubusercontent.com/2549228/171521859-68c4bcb5-de97-4d07-9bd1-d5d619d312b8.jpeg)
+![IMG_0760](https://user-images.githubusercontent.com/2549228/171521865-45cb7c1b-6160-408c-8c6a-db77f8de9f9b.jpeg)
+![IMG_0761](https://user-images.githubusercontent.com/2549228/171521867-92105255-de6d-49a8-bfa3-5ec93703d41c.jpeg)
+![IMG_0762](https://user-images.githubusercontent.com/2549228/171521870-1afd3dbc-94bf-4990-992a-6d30a0b3b31a.jpeg)
+![IMG_0763](https://user-images.githubusercontent.com/2549228/171521874-ef52eb24-0c8b-47f5-99e8-0608fc7d0793.jpeg)
+![IMG_0764](https://user-images.githubusercontent.com/2549228/171521877-80c2eb19-6ebd-43ba-97d0-a3a85520ded5.jpeg)
+![IMG_0765](https://user-images.githubusercontent.com/2549228/171521880-f2267669-42d4-43ce-b2d1-0692348690ee.jpeg)
+
+
 ## 2022-02
 
 ### Dishwasher replacement
