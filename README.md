@@ -4,7 +4,7 @@
 
 ### HVAC filter replacement
 
-We were about three months overdue for our. We replaced it as needed.
+We were about three months overdue for our filter. We replaced it as needed.
 
 Before replacing the filter, it's important to turn off the HVAC system. Here's how to do so with the EcoBee.
 
